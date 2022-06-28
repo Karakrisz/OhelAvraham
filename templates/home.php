@@ -1,0 +1,2081 @@
+<!-- post-banner start -->
+<div class="post-banner-area-3 bg-gray pd-top-30 pd-bottom-40">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-4">
+                <div class="row">
+                    <div class="col-lg-12 col-md-6">
+                        <div class="top-post-wrap top-post-wrap-4">
+                            <div class="thumb">
+                                <div class="overlay"></div>
+                                <img src="assets/img/top-post/31.png" alt="img">
+                            </div>
+                            <div class="top-post-details">
+                                <a class="tag" href="#">Love Care</a>
+                                <h6><a href="#">A Beautiful Girl Breack Down a 24 Years Guy - 1st sight</a></h6>
+                                <div class="meta">
+                                    <div class="date">
+                                        <i class="fa fa-clock-o"></i> 12 Jun 22
+                                    </div>
+                                    <a href="#" class="author">
+                                        <i class="fa fa-user"></i> Alex Nuya
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-6">
+                        <div class="top-post-wrap top-post-wrap-4">
+                            <div class="thumb">
+                                <div class="overlay"></div>
+                                <img src="assets/img/top-post/32.png" alt="img">
+                            </div>
+                            <div class="top-post-details">
+                                <a class="tag" href="#">Makeup</a>
+                                <h6><a href="#">Stet clita kasd gubergren, no sea takimata asanctus.</a></h6>
+                                <div class="meta">
+                                    <div class="date">
+                                        <i class="fa fa-clock-o"></i> 12 Jun 22
+                                    </div>
+                                    <a href="#" class="author">
+                                        <i class="fa fa-user"></i> Alex Nuya
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-8">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img src="assets/img/top-post/33.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag mb-3" href="#">Badminton</a>
+                        <a class="tag tag-blue mb-3 ml-2" href="#">Dress</a>
+                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine Ruls |
+                                TubaTubi</a></h4>
+                        <div class="meta">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- post-banner end -->
+
+<div class="top-story-area pd-top-70 pd-bottom-40">
+    <div class="container">
+        <div class="section-title section-title-4">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h5 class="title">Most Liked Posts in Categories</h5>
+                </div>
+                <div class="col-sm-4 text-sm-right align-self-center">
+                    <a class="see-all-btn float-sm-right" href="#">View All</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay br-10"></div>
+                        <img src="assets/img/top-post/34.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag" href="#">Love Care</a>
+                        <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st</a></h6>
+                        <div class="meta meta-2">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay br-10"></div>
+                        <img src="assets/img/top-post/35.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag" href="#">MackUp</a>
+                        <h6><a href="#">Stet clita kasd guberg sea takimata sanct.</a></h6>
+                        <div class="meta meta-2">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay br-10"></div>
+                        <img src="assets/img/top-post/36.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag" href="#">Love Care</a>
+                        <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st</a></h6>
+                        <div class="meta meta-3">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay br-10"></div>
+                        <img src="assets/img/top-post/37.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag" href="#">Love Care</a>
+                        <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st</a></h6>
+                        <div class="meta meta-3">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="category-area pd-bottom-40">
+    <div class="container">
+        <div class="section-title section-title-4 style-2">
+            <div class="row">
+                <div class="col-sm-8">
+                    <h5 class="title">Most Liked Posts in Categories</h5>
+                </div>
+                <div class="col-sm-4 text-sm-right align-self-center">
+                    <a class="see-all-btn float-sm-right" href="#">View All</a>
+                </div>
+            </div>
+        </div>
+        <ul>
+            <li class="category-wrap" style="background: url(assets/img/category/15.png);">
+                <a href="#"><img src="assets/img/fire.png" alt="img">Art Fashion</a>
+            </li>
+            <li class="category-wrap" style="background: url(assets/img/category/16.png);">
+                <a href="#"><img src="assets/img/fire.png" alt="img">Guys Dress</a>
+            </li>
+            <li class="category-wrap" style="background: url(assets/img/category/17.png);">
+                <a href="#"><img src="assets/img/fire.png" alt="img">Art Fashion</a>
+            </li>
+            <li class="category-wrap" style="background: url(assets/img/category/18.png);">
+                <a href="#"><img src="assets/img/fire.png" alt="img">Art Fashion</a>
+            </li>
+            <li class="category-wrap" style="background: url(assets/img/category/19.png);">
+                <a href="#"><img src="assets/img/fire.png" alt="img">Art Fashion</a>
+            </li>
+        </ul>
+    </div>
+</div>
+
+<!-- hot-news Start -->
+<div class="hot-news-area pd-bottom-40">
+    <div class="container">
+        <div class="section-title section-title-4 style-3">
+            <div class="row">
+                <div class="col-md-3">
+                    <h4 class="title">Hot News</h4>
+                </div>
+                <div class="col-md-9 align-self-center text-left text-md-right">
+                    <div class="top-fashion-tab d-inline-block">
+                        <ul class="nav nav-tabs">
+                            <li><a class="active" data-toggle="tab" href="#fashion1">Spa</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion2">Foods</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion3">Makeup</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion4">Beauty</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion5">Life Style</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion6">Music</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="top-fashion-tab-content tab-content">
+                    <div id="fashion1" class="tab-pane fade active show">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/38.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/39.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/40.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/41.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion2" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/41.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/40.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/39.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/38.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion3" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/38.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/39.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/40.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/41.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion4" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/41.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/39.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/40.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/38.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion5" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/38.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/40.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/39.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/41.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion6" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/41.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/38.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-2 mt-1">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-6">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/39.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/top-post/40.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <a class="tag mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- hot-news End -->
+
+<div class="top-fashion-area pd-top-70 pd-bottom-50">
+    <div class="container">
+        <div class="section-title section-title-4 style-4">
+            <div class="row justify-content-center">
+                <div class="col-md-5">
+                    <h4 class="title">BLACK FASHION</h4>
+                </div>
+                <div class="col-md-7 align-self-center text-left text-md-right">
+                    <div class="top-fashion-tab d-inline-block">
+                        <ul class="nav nav-tabs">
+                            <li><a class="active" data-toggle="tab" href="#fashion7">Spa</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion8">Foods</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion9">Makeup</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion10">Beauty</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion11">Life Style</a>
+                            </li>
+                            <li><a data-toggle="tab" href="#fashion12">Music</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="top-fashion-tab-content tab-content">
+                    <div id="fashion7" class="tab-pane fade active show">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay"></div>
+                                        <img src="assets/img/video/4.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine
+                                                Ruls | TubaTubi</a></h4>
+                                        <div class="meta meta-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                            <span>
+                                                Length: 9 Mins
+                                            </span>
+                                        </div>
+                                        <div class="tag-area mt-4">
+                                            <a class="tag tag-blue" href="#">Fashion</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/video/5.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-3 mt-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion8" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/video/5.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-3 mt-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay"></div>
+                                        <img src="assets/img/video/4.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine
+                                                Ruls | TubaTubi</a></h4>
+                                        <div class="meta meta-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                            <span>
+                                                Length: 9 Mins
+                                            </span>
+                                        </div>
+                                        <div class="tag-area mt-4">
+                                            <a class="tag tag-blue" href="#">Fashion</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion9" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay"></div>
+                                        <img src="assets/img/video/4.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine
+                                                Ruls | TubaTubi</a></h4>
+                                        <div class="meta meta-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                            <span>
+                                                Length: 9 Mins
+                                            </span>
+                                        </div>
+                                        <div class="tag-area mt-4">
+                                            <a class="tag tag-blue" href="#">Fashion</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/video/5.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-3 mt-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion10" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-4">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/video/5.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-3 mt-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-8">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay"></div>
+                                        <img src="assets/img/video/4.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine
+                                                Ruls | TubaTubi</a></h4>
+                                        <div class="meta meta-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                            <span>
+                                                Length: 9 Mins
+                                            </span>
+                                        </div>
+                                        <div class="tag-area mt-4">
+                                            <a class="tag tag-blue" href="#">Fashion</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion11" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay"></div>
+                                        <img src="assets/img/video/4.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine
+                                                Ruls | TubaTubi</a></h4>
+                                        <div class="meta meta-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                            <span>
+                                                Length: 9 Mins
+                                            </span>
+                                        </div>
+                                        <div class="tag-area mt-4">
+                                            <a class="tag tag-blue" href="#">Fashion</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/video/5.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-3 mt-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="fashion12" class="tab-pane fade show">
+                        <div class="row">
+                            <div class="col-lg-8">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay"></div>
+                                        <img src="assets/img/video/4.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h4 class="text-white"><a href="#">Poeple Break Down Covid 19 Home Quarantine
+                                                Ruls | TubaTubi</a></h4>
+                                        <div class="meta meta-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                            <span>
+                                                Length: 9 Mins
+                                            </span>
+                                        </div>
+                                        <div class="tag-area mt-4">
+                                            <a class="tag tag-blue" href="#">Fashion</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4">
+                                <div class="top-post-wrap top-post-wrap-4">
+                                    <div class="thumb">
+                                        <a class="tag" href="#"><img src="assets/img/fire-w.png" alt="img"></a>
+                                        <div class="overlay br-10"></div>
+                                        <img src="assets/img/video/5.png" alt="img">
+                                    </div>
+                                    <div class="top-post-details">
+                                        <h6 class="mb-0"><a href="#">Best iPhone Design MTD <br> 2020 Trends</a></h6>
+                                        <div class="meta meta-3 mt-3">
+                                            <div class="date">
+                                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                                            </div>
+                                            <a href="#" class="author">
+                                                <i class="fa fa-user"></i> Alex Nuya
+                                            </a>
+                                        </div>
+                                        <p>Length: 9 Mins</p>
+                                        <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- top-news-area Start -->
+<div class="top-news-area-2 pd-top-70 pd-bottom-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8">
+                <div class="section-title">
+                    <div class="row">
+                        <div class="col-sm-8">
+                            <h5 class="title">Top Fashion Stories</h5>
+                        </div>
+                        <div class="col-sm-4 text-sm-right align-self-center">
+                            <a class="see-all-btn float-sm-right" href="#">View All</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="media-post-wrap-3 media shadow-none">
+                            <div class="thumb">
+                                <img src="assets/img/top-post/42.png" alt="img">
+                                <a class="tag tag-yellow mt-3" href="#">Working</a>
+                            </div>
+                            <div class="media-body">
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                </h6>
+                                <div class="meta meta-3">
+                                    <div class="date mr-2">
+                                        <i class="fa fa-clock-o"></i> 11 Jun, 2020 <span>|</span>
+                                    </div>
+                                    <a href="#" class="author mr-0">
+                                        <i class="fa fa-user"></i> Alex Nuya <span>|</span>
+                                    </a>
+                                    <div class="Length">
+                                        Length: 9 Mins
+                                    </div>
+                                </div>
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                    vel facilisis. </p>
+                            </div>
+                        </div>
+                        <div class="media-post-wrap-3 media shadow-none">
+                            <div class="thumb">
+                                <img src="assets/img/top-post/43.png" alt="img">
+                                <a class="tag tag-yellow mt-3" href="#">Working</a>
+                            </div>
+                            <div class="media-body">
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                </h6>
+                                <div class="meta meta-3">
+                                    <div class="date mr-2">
+                                        <i class="fa fa-clock-o"></i> 11 Jun, 2020 <span>|</span>
+                                    </div>
+                                    <a href="#" class="author mr-0">
+                                        <i class="fa fa-user"></i> Alex Nuya <span>|</span>
+                                    </a>
+                                    <div class="Length">
+                                        Length: 9 Mins
+                                    </div>
+                                </div>
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                    vel facilisis. </p>
+                            </div>
+                        </div>
+                        <div class="media-post-wrap-3 media shadow-none">
+                            <div class="thumb">
+                                <img src="assets/img/top-post/44.png" alt="img">
+                                <a class="tag tag-yellow mt-3" href="#">Working</a>
+                            </div>
+                            <div class="media-body">
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                </h6>
+                                <div class="meta meta-3">
+                                    <div class="date mr-2">
+                                        <i class="fa fa-clock-o"></i> 11 Jun, 2020 <span>|</span>
+                                    </div>
+                                    <a href="#" class="author mr-0">
+                                        <i class="fa fa-user"></i> Alex Nuya <span>|</span>
+                                    </a>
+                                    <div class="Length">
+                                        Length: 9 Mins
+                                    </div>
+                                </div>
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                    vel facilisis. </p>
+                            </div>
+                        </div>
+                        <div class="media-post-wrap-3 media shadow-none">
+                            <div class="thumb">
+                                <img src="assets/img/top-post/45.png" alt="img">
+                                <a class="tag tag-yellow mt-3" href="#">Working</a>
+                            </div>
+                            <div class="media-body">
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                </h6>
+                                <div class="meta meta-3">
+                                    <div class="date mr-2">
+                                        <i class="fa fa-clock-o"></i> 11 Jun, 2020 <span>|</span>
+                                    </div>
+                                    <a href="#" class="author mr-0">
+                                        <i class="fa fa-user"></i> Alex Nuya <span>|</span>
+                                    </a>
+                                    <div class="Length">
+                                        Length: 9 Mins
+                                    </div>
+                                </div>
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                    vel facilisis. </p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="btn-wrap text-center">
+                            <a class="load-more-btn-2" href="#">Load More <i class="fa fa-spinner"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="sidebar-area">
+                    <div class="widget widget-social-area">
+                        <h5 class="widget-title">Social Media</h5>
+                        <ul>
+                            <li class="facebook"><a href="#"><i class="fa fa-facebook-square"></i>Facebook 12k</a></li>
+                            <li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i>Pinterest 32k</a></li>
+                            <li class="linkedin"><a href="#"><i class="fa fa-linkedin-square"></i>Linkedin 16k</a></li>
+                            <li class="twitter"><a href="#"><i class="fa fa-twitter-square"></i>Twitter 9k</a></li>
+                            <li class="instagram"><a href="#"><i class="fa fa-instagram"></i>Instagram 12k</a></li>
+                            <li class="youtube"><a href="#"><i class="fa fa-youtube-play"></i>Youtube 34k</a></li>
+                        </ul>
+                    </div>
+                    <div class="widget widget-subscribe text-center">
+                        <div class="widget-subscribe-details">
+                            <div class="thumb">
+                                <img src="assets/img/icon/envelope.png" alt="img">
+                            </div>
+                            <h6>Subscribe Our Newslatter</h6>
+                            <div class="newsletter-inner">
+                                <input type="text" placeholder="Enter Your Email address">
+                                <button><i class="fa fa-paper-plane-o"></i></button>
+                            </div>
+                            <p>There is only notifications about new products &amp; updates</p>
+                        </div>
+                    </div>
+                    <div class="widget widget-visitor text-sm-center">
+                        <h5>Monthly Visitor</h5>
+                        <h6>77,179744</h6>
+                        <p>Youn Become a part of the InSky as a member</p>
+                        <a class="btn btn-main" href="#">Become a Member</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- top-news-area End -->
+
+<div class="top-story-area pd-bottom-40">
+    <div class="container">
+        <div class="section-title section-title-4">
+            <div class="row">
+                <div class="col-sm-9">
+                    <h5 class="title">Most Liked Posts in Categories</h5>
+                </div>
+                <div class="col-sm-3 text-sm-right align-self-center">
+                    <a class="see-all-btn float-sm-right" href="#">View All</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="post-slider owl-carousel owl-theme">
+                    <div class="item">
+                        <div class="top-post-wrap top-post-wrap-4">
+                            <div class="thumb">
+                                <div class="overlay br-10"></div>
+                                <img src="assets/img/top-post/46.png" alt="img">
+                            </div>
+                            <div class="top-post-details">
+                                <a class="tag" href="#">MackUp</a>
+                                <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st </a></h6>
+                                <div class="meta meta-2">
+                                    <div class="date">
+                                        <i class="fa fa-clock-o"></i> 12 Jun 22
+                                    </div>
+                                    <a href="#" class="author">
+                                        <i class="fa fa-user"></i> Alex Nuya
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="top-post-wrap top-post-wrap-4">
+                            <div class="thumb">
+                                <div class="overlay br-10"></div>
+                                <img src="assets/img/top-post/46.png" alt="img">
+                            </div>
+                            <div class="top-post-details">
+                                <a class="tag" href="#">MackUp</a>
+                                <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st </a></h6>
+                                <div class="meta meta-2">
+                                    <div class="date">
+                                        <i class="fa fa-clock-o"></i> 12 Jun 22
+                                    </div>
+                                    <a href="#" class="author">
+                                        <i class="fa fa-user"></i> Alex Nuya
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="top-post-wrap top-post-wrap-4">
+                            <div class="thumb">
+                                <div class="overlay br-10"></div>
+                                <img src="assets/img/top-post/46.png" alt="img">
+                            </div>
+                            <div class="top-post-details">
+                                <a class="tag" href="#">MackUp</a>
+                                <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st </a></h6>
+                                <div class="meta meta-2">
+                                    <div class="date">
+                                        <i class="fa fa-clock-o"></i> 12 Jun 22
+                                    </div>
+                                    <a href="#" class="author">
+                                        <i class="fa fa-user"></i> Alex Nuya
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay br-10"></div>
+                        <img src="assets/img/top-post/36.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag" href="#">Love Care</a>
+                        <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st</a></h6>
+                        <div class="meta meta-3">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap top-post-wrap-4">
+                    <div class="thumb">
+                        <div class="overlay br-10"></div>
+                        <img src="assets/img/top-post/37.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <a class="tag" href="#">Love Care</a>
+                        <h6><a href="#">A Beautiful Girl Breack a 24 Years Guy - 1st</a></h6>
+                        <div class="meta meta-3">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="video-area-3 bg-blue pd-top-70 pd-bottom-70"
+    style="background-image: linear-gradient( 45deg, rgb(0,0,0) 0%, rgb(17,11,103) 100%);">
+    <div class="container">
+        <div class="section-title section-title-4 style-4">
+            <div class="row justify-content-center">
+                <div class="col-md-6 col-sm-8">
+                    <h5 class="title">Featured Video</h5>
+                </div>
+                <div class="col-md-6 col-sm-4 text-sm-right align-self-center">
+                    <a class="see-all-btn float-sm-right" href="#">View All</a>
+                </div>
+            </div>
+        </div>
+        <div class="row no-gutters">
+            <div class="col-xl-8 col-lg-7">
+                <div class="top-post-wrap top-post-wrap-2">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img src="assets/img/video/13.png" alt="img">
+                    </div>
+                    <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                        data-effect="mfp-zoom-in"><i class="fa fa-play"></i></a>
+                    <div class="top-post-details">
+                        <h5><a href="#">Best Car Design MTD 2020 Trends | Make Over</a></h5>
+                        <div class="meta d-flex">
+                            <a href="#" class="author">
+                                11 Jun, 2020 <span>|</span>
+                            </a>
+                            <div class="date">
+                                By RT Shuvro <span>|</span>
+                            </div>
+                            <div class="Length ml-0">
+                                Length: 9 Mins
+                            </div>
+                        </div>
+                        <a class="tag tag-yellow" href="#">Drive Car</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-xl-4 col-lg-5">
+                <div class="row no-gutters">
+                    <div class="col-lg-12 col-md-6">
+                        <div class="top-post-wrap top-post-wrap-3">
+                            <div class="thumb">
+                                <div class="overlay"></div>
+                                <img src="assets/img/video/14.png" alt="img">
+                            </div>
+                            <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                                data-effect="mfp-zoom-in"><i class="fa fa-play"></i></a>
+                            <div class="top-post-details">
+                                <a class="tag" href="#"><i class="fa fa-circle"></i>Gym</a>
+                                <h6><a href="#">Make Body Like This</a></h6>
+                                <div class="meta d-flex mb-0">
+                                    <a href="#" class="author">
+                                        11 Jun, 2020 <span>|</span>
+                                    </a>
+                                    <div class="date mr-0">
+                                        By RT Shuvro <span>|</span>
+                                    </div>
+                                    <div class="Length">
+                                        Length: 9 Mins
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-12 col-md-6">
+                        <div class="top-post-wrap top-post-wrap-3 mb-0">
+                            <div class="thumb">
+                                <div class="overlay"></div>
+                                <img src="assets/img/video/15.png" alt="img">
+                            </div>
+                            <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                                data-effect="mfp-zoom-in"><i class="fa fa-play"></i></a>
+                            <div class="top-post-details">
+                                <a class="tag" href="#"><i class="fa fa-circle"></i>Music</a>
+                                <h6><a href="#">Make Body Like This</a></h6>
+                                <div class="meta d-flex mb-0">
+                                    <a href="#" class="author">
+                                        11 Jun, 2020 <span>|</span>
+                                    </a>
+                                    <div class="date mr-0">
+                                        By RT Shuvro <span>|</span>
+                                    </div>
+                                    <div class="Length">
+                                        Length: 9 Mins
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="top-post-wrap top-post-wrap-3 h-100">
+                    <div class="thumb h-100">
+                        <div class="overlay"></div>
+                        <img class="h-100" src="assets/img/video/10.png" alt="img">
+                    </div>
+                    <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                        data-effect="mfp-zoom-in"><i class="fa fa-play"></i></a>
+                    <div class="top-post-details">
+                        <a class="tag" href="#"><i class="fa fa-circle"></i>Fashion</a>
+                        <h6><a href="#">Make Body Like This</a></h6>
+                        <div class="meta d-flex mb-0">
+                            <a href="#" class="author">
+                                11 Jun, 2020 <span>|</span>
+                            </a>
+                            <div class="date mr-0">
+                                By RT Shuvro <span>|</span>
+                            </div>
+                            <div class="Length">
+                                Length: 9 Mins
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="top-post-wrap top-post-wrap-3">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img src="assets/img/video/3.1.png" alt="img">
+                    </div>
+                    <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                        data-effect="mfp-zoom-in"><i class="fa fa-play"></i></a>
+                    <div class="top-post-details">
+                        <a class="tag" href="#"><i class="fa fa-circle"></i>Fashion</a>
+                        <h6><a href="#">Make Body Like This</a></h6>
+                        <div class="meta d-flex mb-0">
+                            <a href="#" class="author">
+                                11 Jun, 2020 <span>|</span>
+                            </a>
+                            <div class="date mr-0">
+                                By RT Shuvro <span>|</span>
+                            </div>
+                            <div class="Length">
+                                Length: 9 Mins
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="top-post-wrap top-post-wrap-3 margin-top-2">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img src="assets/img/video/9.png" alt="img">
+                    </div>
+                    <a class="video-play-btn" href="https://www.youtube.com/embed/Wimkqo8gDZ0"
+                        data-effect="mfp-zoom-in"><i class="fa fa-play"></i></a>
+                    <div class="top-post-details">
+                        <a class="tag" href="#"><i class="fa fa-circle"></i>Fashion</a>
+                        <h6><a href="#">Make Body Like This</a></h6>
+                        <div class="meta d-flex mb-0">
+                            <a href="#" class="author">
+                                11 Jun, 2020 <span>|</span>
+                            </a>
+                            <div class="date mr-0">
+                                By RT Shuvro <span>|</span>
+                            </div>
+                            <div class="Length">
+                                Length: 9 Mins
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- hot-news Start -->
+<div class="hot-news-area pd-top-70 pd-bottom-40">
+    <div class="container">
+        <div class="section-title section-title-4 style-2">
+            <div class="row">
+                <div class="col-md-6 col-sm-8">
+                    <h5 class="title">Your Visited Posts in 2020</h5>
+                </div>
+                <div class="col-md-6 col-sm-4 text-sm-right align-self-center">
+                    <a class="see-all-btn float-sm-right" href="#">View All</a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img class="br-10" src="assets/img/post/34.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                        <div class="meta meta-2">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                        <p>Length: 9 Mins</p>
+                        <a class="tag tag-blue mt-3" href="#">Technology</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img class="br-10" src="assets/img/post/43.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <h6><a href="#">Play The Music Do Fresh Your Mind</a></h6>
+                        <div class="meta meta-2">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                        <p>Length: 9 Mins</p>
+                        <a class="tag tag-yellow mt-3" href="#">World</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img class="br-10" src="assets/img/post/48.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <h6><a href="#">Best Cloth Fashion in 2020 | Top Collection</a></h6>
+                        <div class="meta meta-2">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                        <p>Length: 9 Mins</p>
+                        <a class="tag tag-blue mt-3" href="#">Fitness</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-6">
+                <div class="top-post-wrap">
+                    <div class="thumb">
+                        <div class="overlay"></div>
+                        <img class="br-10" src="assets/img/post/49.png" alt="img">
+                    </div>
+                    <div class="top-post-details">
+                        <h6><a href="#">Play The Music Do Fresh Your Mind</a></h6>
+                        <div class="meta meta-2">
+                            <div class="date">
+                                <i class="fa fa-clock-o"></i> 12 Jun 22
+                            </div>
+                            <a href="#" class="author">
+                                <i class="fa fa-user"></i> Alex Nuya
+                            </a>
+                        </div>
+                        <p>Length: 9 Mins</p>
+                        <a class="tag tag-yellow mt-3" href="#">World</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- hot-news End -->
+
+<div class="text-center bg-gray pd-top-70 pd-bottom-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <a href="#">
+                    <img src="assets/img/ad/3.png" alt="img">
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="top-news-area-2 pd-bottom-40 pd-top-70">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title pb-0">
+                    <div class="row">
+                        <div class="col-md-4">
+                            <h5 class="title mb-0">City News Gallery</h5>
+                        </div>
+                        <div class="col-md-8 align-self-center text-left text-md-right">
+                            <div class="top-news-tab d-inline-block">
+                                <ul class="nav nav-tabs">
+                                    <li><a class="active" data-toggle="tab" href="#news-7">Travel</a>
+                                    </li>
+                                    <li><a data-toggle="tab" href="#news-8">Foods</a>
+                                    </li>
+                                    <li><a data-toggle="tab" href="#news-9">News</a>
+                                    </li>
+                                    <li><a data-toggle="tab" href="#news-10">Beauty</a>
+                                    </li>
+                                    <li><a data-toggle="tab" href="#news-11">Life Style</a>
+                                    </li>
+                                    <li><a data-toggle="tab" href="#news-12">Music</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="top-news-tab-content tab-content">
+                            <div id="news-7" class="tab-pane fade active show">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="top-post-wrap top-post-wrap-4">
+                                            <div class="thumb">
+                                                <div class="overlay"></div>
+                                                <img src="assets/img/post/50.png" alt="img">
+                                            </div>
+                                            <div class="top-post-details">
+                                                <h6 class="mb-2"><a href="#">Best fashion model in 2020 get idea from
+                                                        there</a></h6>
+                                                <p>11 Jun, 2020 | By RT Shuvro</p>
+                                                <p class="mb-0">Length: 9 Mins</p>
+                                                <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/51.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/52.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/53.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/54.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="news-8" class="tab-pane fade show">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="top-post-wrap top-post-wrap-4">
+                                            <div class="thumb">
+                                                <div class="overlay"></div>
+                                                <img src="assets/img/post/50.png" alt="img">
+                                            </div>
+                                            <div class="top-post-details">
+                                                <h6 class="mb-2"><a href="#">Best fashion model in 2020 get idea from
+                                                        there</a></h6>
+                                                <p>11 Jun, 2020 | By RT Shuvro</p>
+                                                <p class="mb-0">Length: 9 Mins</p>
+                                                <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/51.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/52.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/53.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/54.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="news-9" class="tab-pane fade show">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="top-post-wrap top-post-wrap-4">
+                                            <div class="thumb">
+                                                <div class="overlay"></div>
+                                                <img src="assets/img/post/50.png" alt="img">
+                                            </div>
+                                            <div class="top-post-details">
+                                                <h6 class="mb-2"><a href="#">Best fashion model in 2020 get idea from
+                                                        there</a></h6>
+                                                <p>11 Jun, 2020 | By RT Shuvro</p>
+                                                <p class="mb-0">Length: 9 Mins</p>
+                                                <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/51.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/52.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/53.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/54.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="news-10" class="tab-pane fade show">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="top-post-wrap top-post-wrap-4">
+                                            <div class="thumb">
+                                                <div class="overlay"></div>
+                                                <img src="assets/img/post/50.png" alt="img">
+                                            </div>
+                                            <div class="top-post-details">
+                                                <h6 class="mb-2"><a href="#">Best fashion model in 2020 get idea from
+                                                        there</a></h6>
+                                                <p>11 Jun, 2020 | By RT Shuvro</p>
+                                                <p class="mb-0">Length: 9 Mins</p>
+                                                <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/51.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/52.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/53.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/54.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="news-11" class="tab-pane fade show">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="top-post-wrap top-post-wrap-4">
+                                            <div class="thumb">
+                                                <div class="overlay"></div>
+                                                <img src="assets/img/post/50.png" alt="img">
+                                            </div>
+                                            <div class="top-post-details">
+                                                <h6 class="mb-2"><a href="#">Best fashion model in 2020 get idea from
+                                                        there</a></h6>
+                                                <p>11 Jun, 2020 | By RT Shuvro</p>
+                                                <p class="mb-0">Length: 9 Mins</p>
+                                                <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/51.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/52.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/53.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/54.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="news-12" class="tab-pane fade show">
+                                <div class="row">
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="top-post-wrap top-post-wrap-4">
+                                            <div class="thumb">
+                                                <div class="overlay"></div>
+                                                <img src="assets/img/post/50.png" alt="img">
+                                            </div>
+                                            <div class="top-post-details">
+                                                <h6 class="mb-2"><a href="#">Best fashion model in 2020 get idea from
+                                                        there</a></h6>
+                                                <p>11 Jun, 2020 | By RT Shuvro</p>
+                                                <p class="mb-0">Length: 9 Mins</p>
+                                                <a class="tag tag-blue mt-3" href="#">Fashion</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6">
+                                        <div class="row">
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/51.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/52.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4">
+                                        <div class="row">
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/53.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-lg-12 col-md-6">
+                                                <div class="top-post-wrap top-post-wrap-4">
+                                                    <div class="thumb">
+                                                        <div class="overlay"></div>
+                                                        <img src="assets/img/post/54.png" alt="img">
+                                                    </div>
+                                                    <div class="top-post-details">
+                                                        <h6><a href="#">Best iPhone Design MTD 2020 Trends</a></h6>
+                                                        <a class="tag tag-yellow mt-3" href="#">Fashion</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

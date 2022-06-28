@@ -1,0 +1,125 @@
+.footer-area {
+	background: #101010;
+	&.bg-navy-2 {
+		background: linear-gradient( to bottom, rgb(0,0,0) 0%, rgb(21,9,116) 100%); 
+	}
+	.footer-top {
+		padding: 64px 0 37px 0;
+		.widget-title {
+			padding: 0;
+			color: #ffffff;
+			&:before {
+				display: none;
+			}
+		}
+		.widget_link {
+			margin-top: 18px;
+		}
+		ul {
+			padding: 0;
+			margin: 0;
+			li {
+				list-style: none;
+				color: #ffffff;
+				font-size: 16px;
+				line-height: 41px;
+				a {
+					transition: 0.4s;
+					&:hover {
+						color: var(--main-color);
+					}
+				}
+			}
+		}
+		.widget_post_list {
+			.widget-title {
+				margin-bottom: 32px;
+			}
+		}
+	}
+	.footer-bottom {
+		border-top: 1px solid rgb(58, 58, 58);
+		padding: 46px 0;
+		.footer-logo {
+			display: inline-block;
+		}
+		.footer_menu {
+			display: inline-flex;
+			padding: 0;
+			margin: 0;
+			li {
+				list-style: none;
+				color: #ffffff;
+				margin-left: 22px;
+				a {
+					transition: 0.4s;
+					&:hover {
+						color: var(--main-color);
+					}
+				}
+			}
+		}
+		.footer-subscribe-inner {
+			position: relative;
+			input {
+				width: 100%;
+			    border-radius: 5px;
+			    height: 56px;
+			    border: 0;
+			    font-size: 14px;
+			    color: #ffffff;
+			    padding: 0 138px 0 25px;
+			    background-color: rgb(61, 61, 61);
+			    &::placeholder {
+			    	color: #ffffff;
+			    }
+			}
+			button {
+			    height: 56px;
+			    border: 0;
+			    border-radius: 0 5px 5px 0;
+			    position: absolute;
+			    right: 0px;
+			    font-size: 14px;
+			    font-weight: 400;
+			    cursor: pointer;
+			    padding: 0;
+			    background: #ff1d5b;
+			    color: #ffffff;
+			    padding: 0 28px;
+			    transition: 0.4s;
+			    &:hover {
+			    	background: #ea1c55;
+			    }
+			}
+		}
+	}
+	.copyright-area {
+		background-color: #000000;
+		padding: 30px 0;
+		.privacy-menu {
+			padding: 0;
+			margin: 0;
+			li {
+				display: inline-flex;
+				margin-right: 25px;
+				color: #ffffff;
+				list-style: none;
+				a {
+					transition: 0.4s;
+					&:hover {
+						color: var(--main-color);
+					}
+				}
+			}
+		}
+		p {
+			color: #ffffff;
+			margin: 0;
+			font-size: 15px;
+			span {
+				color: #ff1d5b;
+			}
+		}
+	}
+}
