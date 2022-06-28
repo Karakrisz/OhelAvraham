@@ -26,7 +26,7 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 align-self-center">
                     <div class="topbar-left text-md-left text-center">
-                        <span>TRENDING NEWS</span>12 Sunday 2020 : Every success is helped by someone behind the people
+                        <span>Ohel Avraham</span>Szeresd úgy felebarátodat, ahogy saját magadat
                     </div>
                 </div>
                 <div class="col-md-4 align-self-center text-md-right text-center d-none d-lg-block">
@@ -51,7 +51,7 @@
             <div class="row">
                 <div class="col-md-4 align-self-center">
                     <div class="logo text-md-left text-center">
-                        <a class="main-logo" href="index.html"><img src="assets/img/logo.png" alt="img"></a>
+                        <a class="main-logo" href="index.html"><img src="Boaz/img/logo.png" alt="img"></a>
                     </div>
                 </div>
                 <div class="col-md-8 text-md-right text-center">

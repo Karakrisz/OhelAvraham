@@ -1,0 +1,75 @@
+/************* Boaz formating start *************/
+
+
+/************* post-banner start start *************/
+
+iframe {
+    height: 100%;
+    width: 100%;
+}
+
+.top-post-wrap .thumb {
+    height: 100%;
+}
+
+.top-post-wrap {
+    position: relative;
+    margin-bottom: 30px;
+    height: 330px;
+}
+
+.top-post-wrap-4--height-formating {
+    height: 96%;
+}
+
+.monday-lessons {
+    height: 280px;
+}
+
+
+/************* black shadow from the video box *************/
+
+.post-banner-area-3 .top-post-wrap-4 .thumb .overlay {
+    display: none;
+}
+
+.top-fashion-area {
+    margin-bottom: 4rem;
+}
+
+
+/************* post-banner start end *************/
+
+
+/************* Media start *************/
+
+@media screen and (max-width: 767px) {
+    #banner {
+        background-position-y: 0;
+    }
+    .listnone {
+        display: none;
+    }
+    .colored-header {
+        position: fixed;
+        z-index: 100;
+        background: white;
+        width: 100%;
+        padding: 0px 10px;
+    }
+    .services-grid {
+        text-align: center;
+    }
+    .services-center .services-grid .icons i,
+    .services-grid .icons i {
+        margin: auto;
+        margin-bottom: 30px;
+    }
+    .pl-12 {
+        position: relative;
+        left: 12px;
+    }
+}
+
+
+/************* Boaz formating end *************/
