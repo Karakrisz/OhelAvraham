@@ -219,3 +219,6 @@
    <script src="assets/js/jquery.magnific-popup.min.js"></script>
    <!-- main js  -->
    <script src="assets/js/main.js"></script>
+   <!-- Boaz js  -->
+   <script src="Boaz/js/app.js"></script>
+   <script src="Boaz/js/scroll.js"></script>

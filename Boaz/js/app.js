@@ -1,15 +1,43 @@
-$(document).ready(run);
+const nums = document.querySelectorAll(".nums span")
+const counter = document.querySelector(".counter")
+const finalMessage = document.querySelector(".final")
+const replay = document.getElementById("replay")
 
-function run() {
-    var SCROLL_TIME = 1000;
+runAnimation()
 
-    $(".scroll").click(menuClick);
+function resetDom() {
+    counter.classList.remove("hide")
+    finalMessage.classList.remove("show")
 
-    function menuClick(event) {
-        event.preventDefault();
-        var id = $(this).attr("href");
-        $("html, body").animate({
-            "scrollTop": $(id).offset().top 
-        }, SCROLL_TIME);
-    }
+    nums.forEach((num) => {
+        num.classList.value = ""
+    })
+    nums[0].classList.add("in")
 }
+
+
+function runAnimation() {
+    nums.forEach((num, idx) => {
+        const nextToLast = nums.length - 1
+
+        num.addEventListener("animationend", (e) => {
+            if (e.animationName == "goIn" && idx != nextToLast) {
+                num.classList.remove("in")
+                num.classList.add("out")
+            } else if (e.animationName == "goOut" && num.nextElementSibling) {
+                num.nextElementSibling.classList.add("in")
+
+            } else {
+                //  nextToLast.innerHTML
+                // counter.classList.add("hide")
+                finalMessage.classList.add("show")
+            }
+        })
+    })
+}
+
+
+replay.addEventListener("click", () => {
+    resetDom()
+    runAnimation()
+})

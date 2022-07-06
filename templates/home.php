@@ -110,7 +110,19 @@
                 </div>
             </div>
         </div>
-
+        <div class="counter">
+            <div class="nums">
+                <span class="in">3</span>
+                <span>2</span>
+                <span>1</span>
+                <span>0</span>
+            </div>
+            <h4>Prêt</h4>
+        </div>
+        <div class="final">
+            <h1>Partez</h1>
+            <button id="replay">Rejouer</button>
+        </div>
     </div>
 </div>
 <!-- hot-news End -->
