@@ -32,12 +32,15 @@
                 <div class="col-md-4 align-self-center text-md-right text-center d-none d-lg-block">
                     <div class="topbar-right">
                         <ul class="social-area social-area-3">
-                            <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a target="_blank" href="https://www.youtube.com/user/soletbab"><i
+                                        class="fa fa-youtube-play"></i></a>
+                            </li>
+                            <li><a target="_blank" href="https://www.facebook.com/hunyaditeri.zsinagoga"><i
+                                        class="fa fa-facebook"></i></a></li>
+                            <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li> -->
                         </ul>
                     </div>
                 </div>
@@ -49,16 +52,16 @@
     <div class="adbar-area d-none d-lg-block pd-top-30 pd-bottom-30">
         <div class="container">
             <div class="row">
-                <div class="col-md-4 align-self-center">
-                    <div class="logo text-md-left text-center">
+                <div class="col-md-13 align-self-center">
+                    <div class="logo text-center">
                         <a class="main-logo" href="index.html"><img src="Boaz/img/logo.png" alt="img"></a>
                     </div>
                 </div>
-                <div class="col-md-8 text-md-right text-center">
+                <!-- <div class="col-md-8 text-md-right text-center">
                     <a href="#" class="adbar-right">
                         <img src="assets/img/ad/9.png" alt="img">
                     </a>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
@@ -84,33 +87,33 @@
                 <div class="collapse navbar-collapse" id="miralax_main_menu">
                     <ul class="navbar-nav menu-open">
                         <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Home</a>
-                            <ul class="sub-menu">
+                            <a href="/">Kezdőlap</a>
+                            <ul class="sub-menu d-none">
                                 <li><a href="index.html">Home 01</a></li>
                                 <li><a href="index-2.html">Home 02</a></li>
                                 <li><a href="index-3.html">Home 03</a></li>
                             </ul>
                         </li>
-                        <li><a href="blog-category.html">Category</a></li>
+                        <li><a class="scroll" href="#szombati-jelentkezes">Szombati jelentkezés</a></li>
                         <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Pages</a>
-                            <ul class="sub-menu">
+                            <a class="scroll" href="#hetfoi-orak">Hétfői órák</a>
+                            <ul class="sub-menu d-none">
                                 <li><a href="blog-category.html">Blog Category</a></li>
                                 <li><a href="contact.html">Contact</a></li>
                             </ul>
                         </li>
                         <li class="menu-item-has-children current-menu-item">
-                            <a href="#">Blog</a>
-                            <ul class="sub-menu">
+                            <a class="scroll" href="#programok">PROGRAMOK</a>
+                            <ul class="sub-menu d-none">
                                 <li><a href="blog.html">Blog</a></li>
                                 <li><a href="blog-category.html">Blog Category</a></li>
                                 <li><a href="blog-details.html">Blog Details</a></li>
                             </ul>
                         </li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a class="scroll" href="#csutortoki-orak">Csütörtöki órák</a></li>
                     </ul>
                 </div>
-                <div class="nav-right-part nav-right-part-desktop">
+                <div class="nav-right-part nav-right-part-desktop d-none">
                     <a class="search header-search" href="#"><i class="fa fa-search"></i></a>
                     <a class="cart-header" href="#"><img src="assets/img/icon/cart.png" alt="img"><span>5</span></a>
                 </div>

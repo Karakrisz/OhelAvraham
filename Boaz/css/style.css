@@ -1,7 +1,92 @@
 /************* Boaz formating start *************/
 
+.topbar-area-3 .topbar-left span,
+.navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav>li:hover {
+    background: #a71b20;
+}
 
-/************* post-banner start start *************/
+.section-title.section-title-4.style-3,
+.back-to-top,
+.dot1,
+.dot2 {
+    background: #DD1C1A;
+}
+
+.section-title.section-title-4 {
+    background: #3772FF;
+}
+
+.section-title.section-title-4.style-2 {
+    background: #08090A;
+}
+
+.preloader-inner {
+    background: linear-gradient(100deg, #226CE0, #f4f6ff, #226CE0);
+    background-size: 180% 180%;
+    animation: gradient-animation 7s ease infinite;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.boaz-page-link {
+    font-size: 2vw;
+    background: #dd1d19;
+    color: #fff;
+    padding: 0.5rem 2rem 0.5rem 2rem;
+}
+
+.boaz-page-link:hover {
+    background: transparent;
+    border: 2px solid #dd1d19;
+    color: #dd1d19;
+}
+
+
+/************* header start *************/
+
+.main-logo img {
+    width: 43%;
+}
+
+
+/************* header end *************/
+
+
+/************* navbar start *************/
+
+.container.nav-container {
+    text-align: center;
+}
+
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before,
+.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:after {
+    display: none;
+}
+
+.navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav>li a {
+    padding: 1.3rem;
+}
+
+.navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children,
+.navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav>li {
+    padding: 0;
+}
+
+
+/************* navbar end *************/
+
+
+/************* post-banner start  *************/
 
 iframe {
     height: 100%;
@@ -40,112 +125,33 @@ iframe {
 
 /************* counter box *************/
 
-.hot-news-area {
-    position: relative;
-}
-
-.counter {
-    position: absolute;
-    top: 76%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+.love_counter {
     text-align: center;
+    font-size: 2.5vw;
 }
 
-.counter.hide {
-    transform: translate(-50%, -50%) scale(0);
-    animation: hide 0.2s ease-out;
-}
-
-@keyframes hide {
-    0% {
-        transform: translate(-50%, -50%) scale(1);
-    }
-    100% {
-        transform: translate(-50%, -50%) scale(0);
-    }
-}
-
-.final {
-    position: absolute;
-    top: 76%;
-    left: 50%;
-    transform: translate(-50%, -50%) scale(0);
-    text-align: center;
-}
-
-.final.show {
-    transform: translate(-50%, -50%) scale(1);
-    animation: show .2s ease-out;
-}
-
-@keyframes show {
-    0% {
-        transform: translate(-50%, -50%) scale(0);
-    }
-    30% {
-        transform: translate(-50%, -50%) scale(1.4);
-    }
-    100% {
-        transform: translate(-50%, -50%) scale(1);
-    }
-}
-
-.nums {
-    color: purple;
-    font-size: 50px;
-    position: relative;
-    overflow: hidden;
-    width: 250px;
-    height: 50px;
-}
-
-.nums span {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%) rotate(120deg);
-    transform-origin: bottom center;
-}
-
-.nums span.in {
-    transform: translate(-50%, -50%) rotate(0deg);
-    animation: goIn 0.5s ease-in-out;
-}
-
-.nums span.out {
-    animation: goOut 0.5s ease-in-out;
-}
-
-@keyframes goIn {
-    0% {
-        transform: translate(-50%, -50%) rotate(120deg);
-    }
-    30% {
-        transform: translate(-50%, -50%) rotate(-20deg);
-    }
-    60% {
-        transform: translate(-50%, -50%) rotate(10deg);
-    }
-    100% {
-        transform: translate(-50%, -50%) rotate(0deg);
-    }
-}
-
-@keyframes goOut {
-    0% {
-        transform: translate(-50%, -50%) rotate(0deg);
-    }
-    60% {
-        transform: translate(-50%, -50%) rotate(20deg);
-    }
-    100% {
-        transform: translate(-50%, -50%) rotate(-120deg);
-    }
+.love_count {
+    margin-bottom: 1rem;
+    color: #210124;
+    font-weight: 600;
 }
 
 
-/************* post-banner start end *************/
+/************* post-banner end *************/
+
+
+/************* footer start  *************/
+
+.footer-area .footer-top {
+    padding: 50px 0 50px 0;
+}
+
+.footer-top .row {
+    display: none;
+}
+
+
+/************* footer end *************/
 
 
 /************* Media start *************/

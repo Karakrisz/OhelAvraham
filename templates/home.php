@@ -83,8 +83,8 @@
 <!-- post-banner end -->
 
 <!-- hot-news Start -->
-<div class="hot-news-area pd-bottom-40">
-    <div class="container">
+<div class="hot-news-area pd-bottom-40" id="szombati-jelentkezes">
+    <div class=" container">
         <div class="section-title section-title-4 style-3">
             <div class="row">
                 <div class="col-md-6">
@@ -110,24 +110,16 @@
                 </div>
             </div>
         </div>
-        <div class="counter">
-            <div class="nums">
-                <span class="in">3</span>
-                <span>2</span>
-                <span>1</span>
-                <span>0</span>
-            </div>
-            <h4>Prêt</h4>
-        </div>
-        <div class="final">
-            <h1>Partez</h1>
-            <button id="replay">Rejouer</button>
+        <div class="love_counter">
+            <h2>Résztvevők száma</h2>
+            <div class="love_count">75</div>
+            <a class="boaz-page-link" href="">Jelentkezés</a>
         </div>
     </div>
 </div>
 <!-- hot-news End -->
 
-<div class="top-story-area pd-top-70 pd-bottom-40">
+<div class="top-story-area pd-top-70 pd-bottom-40" id="hetfoi-orak">
     <div class="container">
         <div class="section-title section-title-4">
             <div class="row">
@@ -214,7 +206,7 @@
     </div>
 </div>
 
-<div class="top-fashion-area pd-top-70 pd-bottom-50">
+<div class="top-fashion-area pd-top-70 pd-bottom-50" id="programok">
     <div class="container">
         <div class="section-title section-title-4 style-4">
             <div class="row justify-content-center">
@@ -270,7 +262,7 @@
 </div>
 
 
-<div class="category-area pd-bottom-40">
+<div class="category-area pd-bottom-40" id="csutortoki-orak">
     <div class="container">
         <div class="section-title section-title-4 style-2">
             <div class="row">
@@ -381,7 +373,8 @@
                                 <a class="tag tag-yellow mt-3" href="#">Working</a>
                             </div>
                             <div class="media-body">
-                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong
+                                        body.</a>
                                 </h6>
                                 <div class="meta meta-3">
                                     <div class="date mr-2">
@@ -394,7 +387,8 @@
                                         Length: 9 Mins
                                     </div>
                                 </div>
-                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis
+                                    lacus
                                     vel facilisis. </p>
                             </div>
                         </div>
@@ -404,7 +398,8 @@
                                 <a class="tag tag-yellow mt-3" href="#">Working</a>
                             </div>
                             <div class="media-body">
-                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong
+                                        body.</a>
                                 </h6>
                                 <div class="meta meta-3">
                                     <div class="date mr-2">
@@ -417,7 +412,8 @@
                                         Length: 9 Mins
                                     </div>
                                 </div>
-                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis
+                                    lacus
                                     vel facilisis. </p>
                             </div>
                         </div>
@@ -427,7 +423,8 @@
                                 <a class="tag tag-yellow mt-3" href="#">Working</a>
                             </div>
                             <div class="media-body">
-                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong
+                                        body.</a>
                                 </h6>
                                 <div class="meta meta-3">
                                     <div class="date mr-2">
@@ -440,7 +437,8 @@
                                         Length: 9 Mins
                                     </div>
                                 </div>
-                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis
+                                    lacus
                                     vel facilisis. </p>
                             </div>
                         </div>
@@ -450,7 +448,8 @@
                                 <a class="tag tag-yellow mt-3" href="#">Working</a>
                             </div>
                             <div class="media-body">
-                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong body.</a>
+                                <h6><a href="#">Gym is the main part fo our life: 10 best tips can make strong
+                                        body.</a>
                                 </h6>
                                 <div class="meta meta-3">
                                     <div class="date mr-2">
@@ -463,7 +462,8 @@
                                         Length: 9 Mins
                                     </div>
                                 </div>
-                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis lacus
+                                <p>Music can do dolor sit amet, consectetur adipiscing elit, sed do eiusa. Quis
+                                    lacus
                                     vel facilisis. </p>
                             </div>
                         </div>
@@ -480,9 +480,11 @@
                     <div class="widget widget-social-area">
                         <h5 class="widget-title">Social Media</h5>
                         <ul>
-                            <li class="facebook"><a href="#"><i class="fa fa-facebook-square"></i>Facebook 12k</a></li>
+                            <li class="facebook"><a href="#"><i class="fa fa-facebook-square"></i>Facebook 12k</a>
+                            </li>
                             <li class="pinterest"><a href="#"><i class="fa fa-pinterest"></i>Pinterest 32k</a></li>
-                            <li class="linkedin"><a href="#"><i class="fa fa-linkedin-square"></i>Linkedin 16k</a></li>
+                            <li class="linkedin"><a href="#"><i class="fa fa-linkedin-square"></i>Linkedin 16k</a>
+                            </li>
                             <li class="twitter"><a href="#"><i class="fa fa-twitter-square"></i>Twitter 9k</a></li>
                             <li class="instagram"><a href="#"><i class="fa fa-instagram"></i>Instagram 12k</a></li>
                             <li class="youtube"><a href="#"><i class="fa fa-youtube-play"></i>Youtube 34k</a></li>

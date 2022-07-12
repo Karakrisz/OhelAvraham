@@ -181,25 +181,31 @@
        <div class="copyright-area">
            <div class="container">
                <div class="row justify-content-center">
-                   <div class="col-lg-5 align-self-center">
+                   <div class="col-lg-4 align-self-center">
                        <ul class="privacy-menu">
-                           <li><a href="#">Terms &amp; Conditions</a></li>
+                           <!-- <li><a href="#">Terms &amp; Conditions</a></li>
                            <li><a href="#">Privacy Policy</a></li>
-                           <li><a href="#">Sitemap</a></li>
+                           <li><a href="#">Sitemap</a></li> -->
+                           <li> <a target="_blank"
+                                   href="https://www.google.hu/maps/place/Budapest,+Hunyadi+t%C3%A9r+3,+1067/@47.505513,19.0640654,17z/data=!3m1!4b1!4m5!3m4!1s0x4741dc6e37bd7c21:0x1a7fb4562a7e2202!8m2!3d47.5055094!4d19.0662541?hl=hu&authuser=0">Budapest,
+                                   Hunyadi tér 3, 1067</a></li>
                        </ul>
                    </div>
-                   <div class="col-xl-4 col-lg-7 text-xl-left text-lg-right align-self-center">
+                   <div class="col-xl-4 col-lg-6 text-xl-left text-lg-right align-self-center">
                        <ul class="social-area social-area-2">
-                           <li><a href="#"><i class="fa fa-youtube-play"></i></a></li>
-                           <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                           <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                           <li><a target="_blank" href="https://www.youtube.com/user/soletbab"><i
+                                       class="fa fa-youtube-play"></i></a>
+                           </li>
+                           <li><a target="_blank" href="https://www.facebook.com/hunyaditeri.zsinagoga"><i
+                                       class="fa fa-facebook"></i></a></li>
+                           <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li>
                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
                            <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
-                           <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                           <li><a href="#"><i class="fa fa-whatsapp"></i></a></li> -->
                        </ul>
                    </div>
-                   <div class="col-xl-3 col-lg-12 text-xl-right align-self-center">
-                       <p>@ 2020, TubaTubi. All right reserved</p>
+                   <div class="col-xl-4 col-lg-12 text-xl-right align-self-center">
+                       <p>@ 2022, Ohel Avraham. Minden jog fenntartva</p>
                    </div>
                </div>
            </div>
