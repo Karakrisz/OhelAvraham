@@ -181,7 +181,7 @@
        <div class="copyright-area">
            <div class="container">
                <div class="row justify-content-center">
-                   <div class="col-lg-4 align-self-center">
+                   <div class="col-lg-3 align-self-center">
                        <ul class="privacy-menu">
                            <!-- <li><a href="#">Terms &amp; Conditions</a></li>
                            <li><a href="#">Privacy Policy</a></li>
@@ -191,7 +191,11 @@
                                    Hunyadi tér 3, 1067</a></li>
                        </ul>
                    </div>
-                   <div class="col-xl-4 col-lg-6 text-xl-left text-lg-right align-self-center">
+                   <div class="col-xl-3 col-lg-12 text-xl-right align-self-center">
+                       <p class="copyright-area__p"><a href="adatvedelmi-tajekoztato">Adatvédelmi tájékoztató </a>
+                       </p>
+                   </div>
+                   <div class="col-xl-3 col-lg-6 text-xl-left text-lg-right align-self-center">
                        <ul class="social-area social-area-2">
                            <li><a target="_blank" href="https://www.youtube.com/user/soletbab"><i
                                        class="fa fa-youtube-play"></i></a>
@@ -204,7 +208,7 @@
                            <li><a href="#"><i class="fa fa-whatsapp"></i></a></li> -->
                        </ul>
                    </div>
-                   <div class="col-xl-4 col-lg-12 text-xl-right align-self-center">
+                   <div class="col-xl-3 col-lg-12 text-xl-right align-self-center">
                        <p>@ 2022, Ohel Avraham. Minden jog fenntartva</p>
                    </div>
                </div>
@@ -219,7 +223,8 @@
    </div>
    <!-- back to top area end -->
 
-
+   <!-- splide js -->
+   <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@4.0.7/dist/js/splide.min.js"></script>
    <!-- all plugins here -->
    <script src="assets/js/vendor.js"></script>
    <script src="assets/js/jquery.magnific-popup.min.js"></script>

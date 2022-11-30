@@ -1,8 +1,37 @@
 /************* Boaz formating start *************/
 
+.inserted-alert-success {
+    display: none;
+}
+
+.inserted-alert-success__p {
+    padding: 0.5em 0 0 0;
+    font-weight: 600;
+}
+
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+.linear-gradient {
+    background: linear-gradient(100deg, #241023, #a71b20, #241023) !important;
+    background-size: 180% 180% !important;
+    animation: gradient-animation 10s ease infinite;
+}
+
 .topbar-area-3 .topbar-left span,
 .navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav>li:hover {
-    background: #a71b20;
+    background: linear-gradient(100deg, #241023, #a71b20, #241023);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
 }
 
 .section-title.section-title-4.style-3,
@@ -82,11 +111,85 @@
     padding: 0;
 }
 
+.navbar-area .nav-container .navbar-collapse .navbar-nav {
+    width: 100%;
+    padding: 1em;
+}
+
 
 /************* navbar end *************/
 
 
+/************* splide start *************/
+
+.splide__list {
+    height: 90vh;
+}
+
+.splide__slide img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.splide__slide__bg-box {
+    bottom: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0.7;
+}
+
+.splide__slide__text-box {
+    top: 29%;
+    left: 7em;
+}
+
+.splide__slide__text-box__h1,
+.splide__slide__text-box__h2,
+.splide__slide__text-box__h3,
+.splide__slide__text-box__p,
+.splide__slide__text-box__p__i {
+    color: #fff;
+    letter-spacing: 7px;
+    font-family: 'Lemon', cursive;
+}
+
+.splide__slide__text-box__h1 {
+    font-size: 10vh;
+}
+
+.splide__slide__text-box__h2 {
+    font-size: 6.7vh;
+}
+
+.splide__slide__text-box__h3 {
+    font-size: 6.5vh;
+}
+
+.splide__slide__text-box__p__i {
+    font-size: 3vh;
+    font-weight: 400;
+}
+
+.splide__arrow {
+    background: transparent;
+}
+
+.splide__arrow svg {
+    fill: #fff;
+    height: 5.5em;
+    width: 5.5em;
+}
+
+
+/************* splide end *************/
+
+
 /************* post-banner start  *************/
+
+.post-banner-area-3 {
+    padding-top: 4.3em !important;
+}
 
 iframe {
     height: 100%;
@@ -111,6 +214,10 @@ iframe {
     height: 280px;
 }
 
+.tag {
+    display: none;
+}
+
 
 /************* black shadow from the video box *************/
 
@@ -120,6 +227,10 @@ iframe {
 
 .top-fashion-area {
     margin-bottom: 4rem;
+}
+
+.thumb .overlay {
+    height: 0 !important;
 }
 
 
@@ -137,6 +248,13 @@ iframe {
 }
 
 
+/************* hot-news Start *************/
+
+.top-fashion-area__container--d-none {
+    display: none;
+}
+
+
 /************* post-banner end *************/
 
 
@@ -150,13 +268,155 @@ iframe {
     display: none;
 }
 
+.copyright-area__p {
+    padding-bottom: 1.3em;
+}
+
 
 /************* footer end *************/
 
 
+/************* application form start  *************/
+
+.application-form-content {
+    margin-top: 4em;
+}
+
+.application-form-content__btn-box {
+    width: 60%;
+    margin: auto;
+    margin-top: 3.5em;
+}
+
+.application-form-content__btn-box__btn {
+    background: linear-gradient(to right, #241023 0%, #a71b20 100%) !important;
+}
+
+.application-form-content__btn-box__btn:hover {
+    background: transparent !important;
+    border: 1.3px solid #a71b20;
+    color: #a71b20 !important;
+    text-transform: uppercase;
+}
+
+.contact-area-wrap .contact-form .btn:before {
+    background: unset;
+}
+
+
+/************* application form end  *************/
+
+
+/************* data processing content start  *************/
+
+.data-processing-content__h4 {
+    margin: 0 0 1em 0;
+}
+
+
+/************* data processing content end  *************/
+
+
 /************* Media start *************/
 
-@media screen and (max-width: 767px) {}
+@media screen and (max-width: 991px) {
+    iframe {
+        height: 200px;
+    }
+    h2 {
+        font-size: 30px;
+    }
+    .nav-right-part-mobile {
+        display: none;
+    }
+    .navbar-area-3 .nav-container .toggle-btn,
+    .navbar-area.navbar-area-2 .nav-container .toggle-btn {
+        background: #a71b20;
+        width: 40px;
+        top: 2em;
+        right: 15px;
+    }
+    .toggle-btn .icon-right {
+        width: 17px;
+    }
+    .main-logo img {
+        width: 100%;
+        bottom: 10px;
+        position: relative;
+    }
+    .top-post-wrap {
+        height: 60%;
+    }
+    .love_counter {
+        text-align: center;
+        font-size: 43px;
+    }
+    .boaz-page-link {
+        font-size: 23px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .splide__list {
+        height: 100%;
+    }
+    .splide__slide__text-box {
+        top: 25%;
+        left: 3.3em;
+    }
+    .splide__slide__text-box__h1,
+    .splide__slide__text-box__h2,
+    .splide__slide__text-box__h3,
+    .splide__slide__text-box__p,
+    .splide__slide__text-box__p__i {
+        letter-spacing: 3px;
+    }
+    .splide__slide__text-box__h1 {
+        font-size: 29px;
+    }
+    .splide__slide__text-box__h2,
+    .splide__slide__text-box__h3 {
+        font-size: 20px;
+    }
+    .splide__slide__text-box__p__i {
+        font-size: 13px;
+    }
+    .splide__arrow--prev {
+        left: 0.3em;
+    }
+    .splide__arrow--next {
+        right: 0.3em;
+    }
+    .splide__slide__bg-box {
+        opacity: 0.87;
+    }
+    .topbar-area-3 .topbar-left {
+        display: flex;
+        flex-direction: column;
+    }
+    .topbar-area-3 .topbar-left span,
+    .navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav>li:hover {
+        font-size: 20px;
+        padding: 0.5em 0.7em;
+        width: 100%;
+        margin: auto;
+        margin-bottom: 1em;
+    }
+    .topbar-area-3 .topbar-left span,
+    .navbar-area.navbar-area-3 .nav-container .navbar-collapse .navbar-nav>li a:hover {
+        color: #fff;
+    }
+    .cart-header,
+    .search.header-search {
+        display: none;
+    }
+    .main-logo img {
+        width: 100%;
+    }
+    .contact-area-wrap h3 {
+        font-size: 22px;
+    }
+}
 
 
 /************* Boaz formating end *************/

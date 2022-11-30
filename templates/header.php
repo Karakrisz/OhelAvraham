@@ -1,13 +1,13 @@
 <header>
     <!-- preloader area start -->
-    <div class="preloader" id="preloader">
+    <!-- <div class="preloader" id="preloader">
         <div class="preloader-inner">
             <div class="spinner">
                 <div class="dot1"></div>
                 <div class="dot2"></div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- search popup area start -->
     <div class="search-popup" id="search-popup">
         <form action="index.html" class="search-form">
@@ -54,7 +54,7 @@
             <div class="row">
                 <div class="col-md-13 align-self-center">
                     <div class="logo text-center">
-                        <a class="main-logo" href="index.html"><img src="Boaz/img/logo.png" alt="img"></a>
+                        <a class="main-logo" href="/"><img src="Boaz/img/logo.png" alt="img"></a>
                     </div>
                 </div>
                 <!-- <div class="col-md-8 text-md-right text-center">
@@ -72,7 +72,7 @@
             <div class="container nav-container">
                 <div class="responsive-mobile-menu">
                     <div class="logo d-lg-none d-block">
-                        <a class="main-logo" href="index.html"><img src="assets/img/logo.png" alt="img"></a>
+                        <a class="main-logo" href="/"><img src="Boaz/img/logo.png" alt="img"></a>
                     </div>
                     <button class="menu toggle-btn d-block d-lg-none" data-target="#miralax_main_menu"
                         aria-expanded="false" aria-label="Toggle navigation">
@@ -86,31 +86,11 @@
                 </div>
                 <div class="collapse navbar-collapse" id="miralax_main_menu">
                     <ul class="navbar-nav menu-open">
-                        <li class="menu-item-has-children current-menu-item">
-                            <a href="/">Kezdőlap</a>
-                            <ul class="sub-menu d-none">
-                                <li><a href="index.html">Home 01</a></li>
-                                <li><a href="index-2.html">Home 02</a></li>
-                                <li><a href="index-3.html">Home 03</a></li>
-                            </ul>
-                        </li>
-                        <li><a class="scroll" href="#szombati-jelentkezes">Szombati jelentkezés</a></li>
-                        <li class="menu-item-has-children current-menu-item">
-                            <a class="scroll" href="#hetfoi-orak">Hétfői órák</a>
-                            <ul class="sub-menu d-none">
-                                <li><a href="blog-category.html">Blog Category</a></li>
-                                <li><a href="contact.html">Contact</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item-has-children current-menu-item">
-                            <a class="scroll" href="#programok">PROGRAMOK</a>
-                            <ul class="sub-menu d-none">
-                                <li><a href="blog.html">Blog</a></li>
-                                <li><a href="blog-category.html">Blog Category</a></li>
-                                <li><a href="blog-details.html">Blog Details</a></li>
-                            </ul>
-                        </li>
-                        <li><a class="scroll" href="#csutortoki-orak">Csütörtöki órák</a></li>
+                        <li><a href="/">Kezdőlap</a></li>
+                        <li><a href="szombati-jelentkezes">Szombati jelentkezés</a></li>
+                        <li><a class="scroll" href="./#hetfoi-orak">Talmud, Tóra</a></li>
+                        <li><a class="scroll" href="./#programok">PROGRAMOK</a></li>
+                        <li><a class="scroll" href="./#csutortoki-orak">Vendégségben, vendégeink</a></li>
                     </ul>
                 </div>
                 <div class="nav-right-part nav-right-part-desktop d-none">

@@ -53,3 +53,27 @@ function getConnection()
     }
     return $connection;
 }
+
+function AddSaturdayPeople($connection, $user_name, $user_email)
+{
+    if ($statement = mysqli_prepare($connection, 'INSERT INTO users (user_name, user_email) VALUES (?,?)')) {
+        mysqli_stmt_bind_param($statement, 'ss', $user_name, $user_email);
+        mysqli_stmt_execute($statement);
+        mysqli_stmt_close($statement);
+    } else {
+        logMessage('ERROR', 'Query error:' . mysqli_error($connection));
+        errorPage();
+    }
+}
+
+// function users($connection)
+// {
+//     if ($statement = mysqli_prepare($connection, 'SELECT COUNT(*) FROM `users`')) {
+//         mysqli_stmt_execute($statement);
+//         $result = mysqli_stmt_get_result($statement);
+//         return mysqli_fetch_all($result, MYSQLI_ASSOC);
+//     } else {
+//         logMessage('ERROR', 'Query error: ' . mysqli_error($connection));
+//         errorPage();
+//     }
+// }

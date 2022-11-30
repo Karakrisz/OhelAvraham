@@ -1,15 +1,17 @@
-$(document).ready(run);
+$(function() {
 
-function run() {
-    var SCROLL_TIME = 1000;
+    let SCROLL_TIME = 1000;
 
-    $(".scroll").click(menuClick);
+    if (window.location.href.search('szombati-jelentkezes') == -1) {
+        $(".scroll").click(menuClick)
+    }
 
     function menuClick(event) {
         event.preventDefault();
-        var id = $(this).attr("href");
+        let id = '#' + $(this).attr("href").replace(/\.\/#/, '');
         $("html, body").animate({
             "scrollTop": $(id).offset().top
-        }, SCROLL_TIME);
+        }, SCROLL_TIME)
     }
-}
+
+})

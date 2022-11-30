@@ -5,6 +5,10 @@ $uri = $_SERVER["REQUEST_URI"];
 $cleaned = explode("?", $uri)[0];
 
 route('/', 'homeController');
+route('/szombati-jelentkezes', 'applicationFormController');
+route('/adatvedelmi-tajekoztato', 'dataProcessingController');
+
+route('/AddSaturdayPeopleSubmit', 'AddSaturdayPeopleSubmitController', "POST");
 
 list($view, $data) = dispatch($cleaned, 'notFoundController');
 if (preg_match("%^redirect\:%", $view)) {
